@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "518656647195",
+    "project_id": "bikeke-e57e9",
+    "storage_bucket": "bikeke-e57e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518656647195:android:2899fee91a30711b5b18be",
+        "android_client_info": {
+          "package_name": "com.example.bikeke_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518656647195-n2250mdtt0rak9od930kbsd4e2be0o77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bikeke_customer",
+            "certificate_hash": "f3c38f2b7e0cadd8b09dea94a7fb9350fe2f3760"
+          }
+        },
+        {
+          "client_id": "518656647195-jrug4gar0b1u63jtnnbgkhgpnt2tv2h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV6FAToaxLlMpcY_W5EUppN89biXUQCVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518656647195-jrug4gar0b1u63jtnnbgkhgpnt2tv2h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
